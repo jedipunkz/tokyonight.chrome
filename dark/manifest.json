@@ -9,7 +9,7 @@
       "frame_inactive": [22, 23, 33],
       "frame_incognito": [36, 40, 59],
       "frame_incognito_inactive": [30, 33, 48],
-      "toolbar": [26, 27, 38],
+      "toolbar": [36, 40, 59],
       "tab_text": [192, 202, 245],
       "tab_background_text": [122, 162, 247],
       "tab_background_text_inactive": [86, 95, 137],
